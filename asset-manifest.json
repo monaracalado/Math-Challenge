@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Math-Challenge/static/css/main.6f098c6a.css",
+    "main.js": "/Math-Challenge/static/js/main.141f86d1.js",
+    "static/js/453.d4aff154.chunk.js": "/Math-Challenge/static/js/453.d4aff154.chunk.js",
+    "index.html": "/Math-Challenge/index.html",
+    "main.6f098c6a.css.map": "/Math-Challenge/static/css/main.6f098c6a.css.map",
+    "main.141f86d1.js.map": "/Math-Challenge/static/js/main.141f86d1.js.map",
+    "453.d4aff154.chunk.js.map": "/Math-Challenge/static/js/453.d4aff154.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f098c6a.css",
+    "static/js/main.141f86d1.js"
+  ]
+}
