@@ -3,4 +3,4 @@
   publish = "build"
 
 [context.production.environment]
-  NODE_VERSION = "18.20.4"
+  NODE_VERSION = "20.18.0"
